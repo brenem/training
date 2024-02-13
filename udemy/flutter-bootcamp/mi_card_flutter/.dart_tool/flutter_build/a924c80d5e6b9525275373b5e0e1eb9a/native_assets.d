@@ -1,0 +1,1 @@
+ C:\\appdev\\training\\udemy\\flutter-bootcamp\\i_am_poor\\.dart_tool\\flutter_build\\a924c80d5e6b9525275373b5e0e1eb9a\\native_assets.yaml: 

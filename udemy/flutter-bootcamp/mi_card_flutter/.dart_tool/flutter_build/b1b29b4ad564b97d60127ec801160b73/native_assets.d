@@ -1,0 +1,1 @@
+ C:\\appdev\\training\\udemy\\flutter-bootcamp\\mi_card_flutter\\.dart_tool\\flutter_build\\b1b29b4ad564b97d60127ec801160b73\\native_assets.yaml: 
